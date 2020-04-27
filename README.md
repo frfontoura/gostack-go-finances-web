@@ -13,7 +13,7 @@ Essa é uma aplicação que se conecta ao backend do [Desafio 06](https://github
 * NodeJs - (desenvolvido utilizando a versão v12.16.2)
 * Yarn - (opcional - versão 1.22.4)
 
-# Técnologias utilizadas
+# Tecnologias utilizadas
 
 * ReactJs
 * Typescript
